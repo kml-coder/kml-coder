@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey, I'm Kyungmin!
 
-<!--
-**kml-coder/kml-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer & AI Developer  
+🔍 Currently looking for a job in software engineering  
+🌱 Working on food-tech projects (ingredient AI, meal recommendation app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages & Frameworks
+- **Languages:** Python, Java, JavaScript, C/C++  
+- **Frameworks/Tools:** React, Flutter, Expo, PyTorch, TensorFlow  
+- **Platforms:** AWS (EC2, S3, SageMaker), Docker, Git, MongoDB  
+
+---
+
+### 📫 Contact
+- **LinkedIn:** [linkedin.com/in/kyungmin-lee-coder](https://www.linkedin.com/in/kyungmin-lee-coder)  
+- **GitHub:** [github.com/kml-coder](https://github.com/kml-coder)  
+- **Email:** kl946@scarletmail.rutgers.edu
