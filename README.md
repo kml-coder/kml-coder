@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Kyungmin!
 
-Aspiring Software Engineer & AI Developer  
-Currently looking for a job in software engineering  
-Working on food-tech projects (ingredient AI, meal recommendation app)
+💻 Aspiring Software Engineer & AI Developer  
+🔍 Currently looking for a job in software engineering  
+🌱 Working on food-tech projects (ingredient AI, meal recommendation app)
 
 ---
 
