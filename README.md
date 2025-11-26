@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Kyungmin!
 
-💻 Aspiring Software Engineer & AI Developer  
-🔍 Currently looking for a job in software engineering  
-🌱 Working on food-tech projects (ingredient AI, meal recommendation app)
+💻 Aspiring Software Engineer & ML Engineer  
+🔍 Currently looking for a job in Software engineering & ML engineering
+🌱 Working on Language model based projects
 
 ---
 
 ### 🛠 Languages & Frameworks
 - **Languages:** Python, Java, JavaScript, C/C++  
 - **Frameworks/Tools:** React, Flutter, Expo, PyTorch, TensorFlow  
-- **Platforms:** AWS (EC2, S3, SageMaker), Docker, Git, MongoDB  
+- **Platforms:** AWS (EC2, S3), Docker, Git, MongoDB
 
 ---
 
