@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kyungmin!
 
-💻 Aspiring Software Engineer & ML Engineer  
+💻 Software Engineer & ML Engineer  
 🔍 Currently looking for a job in Software engineering & ML engineering  
 🌱 Working on Language model based projects
 
