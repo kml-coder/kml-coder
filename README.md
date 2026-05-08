@@ -12,7 +12,7 @@
 - **Platforms:** AWS (EC2, S3), Docker, Git, MongoDB
 
 ### Projects those are private
-The AI Coach and Lyrics Generator projects are kept private due to proprietary components and future commercialization plans. I can share technical details upon request.
+The AI Coach and MuscleFinder projects are kept private due to proprietary components and future commercialization plans. I can share technical details upon request.
 
 ---
 
